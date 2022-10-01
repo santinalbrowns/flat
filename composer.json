@@ -1,0 +1,17 @@
+{
+    "name": "user/flat",
+    "autoload": {
+        "psr-4": {
+            "": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "Santinal Browns",
+            "email": "asantikuseka@outlook.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
